@@ -219,7 +219,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                         InlineKeyboardButton('🚀 New Anime Update🖥️', url="https://t.me/group_discd")]
+                         InlineKeyboardButton('🚀 New Anime Update🖥️', url="https://t.me/asddf12e2s")]
                     ]
                 )
             ) 
