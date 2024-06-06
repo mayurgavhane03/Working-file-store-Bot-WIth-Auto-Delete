@@ -8,10 +8,15 @@ class script(object):
     
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
     
-Qury: more movie,anime,web-serires in hindi [Get Here](https://t.me/group_discd)
-
-
-sɪᴢᴇ ⚙️: {file_size} </b>""" 
+  JOin Channel ==>> (https://t.me/ocean_of_movies0)
+  JOin Channel ==>> (https://t.me/ocean_of_movies0)
+   
+  📌Request Movie Here
+  Request Channel ==>> (https://t.me/Request_Your_Movieee
+  )
+  sɪᴢᴇ ⚙️: {file_size} </b>
+  
+  """ 
 
 
 
