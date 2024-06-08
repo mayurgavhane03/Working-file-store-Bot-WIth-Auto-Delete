@@ -8,8 +8,9 @@ class script(object):
     
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
     
-  JOin Channel ==>> (https://t.me/ocean_of_movies0)
-  JOin Channel ==>> (https://t.me/ocean_of_movies0)
+  JOin Channel     ==>> https://t.me/ocean_of_movies0
+  JOin Channel     ==>> https://t.me/ocean_of_movies0
+  Join 18+ Channel ===> https://t.me/PremiumStore111
    
   📌Request Movie Here
   Request Channel ==>> (https://t.me/Request_Your_Movieee
